@@ -98,35 +98,35 @@ QUEST_20150317_000097	Eu? Eu acho engracado, entao eu nao me importo.
 QUEST_20150317_000098	Uh, espere. Eu retiro o que eu falei sobre nao acreditar em nada que ele diga.
 QUEST_20150317_000099	Tudo que sai da boca dele e uma mentira. Nao acredite nele.
 QUEST_20150317_000100	Siauliai Guard
-QUEST_20150317_000101	{memo X}There are monsters beyond this point. Be careful.
-QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but souls roaming about.
-QUEST_20150317_000103	$This is what people who have seen a Goddess in their dreams are being called.
-QUEST_20150317_000104	$I thought the Revelators' visions were madness at first. {nl}The Goddesses have been gone for a long time after all.
-QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding to our prayers ever since Medis Diena four years ago?
-QUEST_20150317_000106	$You can find Class Masters all around the kingdom. {nl}Why don't you visit them and learn what you can?
-QUEST_20150317_000107	$You don't know about Medis Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
-QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
-QUEST_20150317_000109	$If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
-QUEST_20150317_000110	Eastern Woods Sentinel
-QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
-QUEST_20150317_000112	Damn, those stubborn things chased us this far!
-QUEST_20150317_000113	{memo X}Those screams… We're under attack!
-QUEST_20150317_000114	Safety Instructions
-QUEST_20150317_000115	1. Only authorized personnel may enter. {nl}2. Always follow the directions of the mining supervisor.
-QUEST_20150317_000116	3. Do not approach closed-off areas. {nl}4. Any suspicious individuals should be reported to the Klaipeda Knights.
-QUEST_20150317_000117	Supply Base Soldier
-QUEST_20150317_000118	I've never been in a real fight before so I'm a bit nervous.
-QUEST_20150317_000119	Farm Sentinel
-QUEST_20150317_000120	My colleague is in the middle of a battle at the Miners' Village. {nl}I've thought of going to help, but the Eastern Woods is in trouble as well, so all I can do is worry.
-QUEST_20150317_000121	I think this mission has shown me enough monsters for a lifetime. {nl}It used to be just groups of Vubbes.
-QUEST_20150317_000122	{memo X}Chupacabras are fond of the streams and lush vegetation of the northern area.
-QUEST_20150317_000123	Klaipeda Guard Captain
-QUEST_20150317_000124	You're the…
-QUEST_20150317_000125	{memo X}It looks like you can see into the upper forest from here. {nl}Try not to get into trouble.
-QUEST_20150317_000126	You don't have the required quest item. Are you sure you want to continue?
-QUEST_20150317_000127	Klaipeda Girl
-QUEST_20150317_000128	My neighbor used to be a monster hunter. {nl}He's retired now, though. It was too dangerous.
-QUEST_20150317_000129	{memo X}It would be nice if all these Revelators being here meant that the Goddesses are back.
+QUEST_20150317_000101	{memo X}Existem monstros além deste ponto. Tenha cuidado.
+QUEST_20150317_000102	Estas madeiras não são muito pacíficas, mas é melhor do que outros lugares. {nl}Há florestas que não tem nada além de almas vagando.
+QUEST_20150317_000103	Isto é o que pessoas que viram uma deusa em seus sonhos estão sendo chamados.
+QUEST_20150317_000104	Eu pensei que as visões dos Reveladores eram loucura em primeiro lugar. {nl}As deusas estiveram fora por um longo tempo afinal.
+QUEST_20150317_000105	Não é verdade que as deusas não têm respondido às nossas orações desde Medis Diena a quatro anos atrás?
+QUEST_20150317_000106	Você pode encontrar o Mestre de Classes em todo o Reino. {nl}Por que você não vai visitá-lo e aprende algo?
+QUEST_20150317_000107	Você não sabe sobre Medis Diena? Você deve ter vindo de muito longe. {nl}Quatro anos atrás, as coisas saíram de controle na capital.
+QUEST_20150317_000108	{memo X}Foi um desastre ... Muitas pessoas foram feridas ou mortas. {nl}Criaturas dóceis cresceram ferozes e muitos outros monstros emergiram.
+QUEST_20150317_000109	Se você quiser entender o que aconteceu em Medis Diena quatro anos atrás, então vá para Klaipeda. {nl}Muitos sobreviventes se refugiaram lá.
+QUEST_20150317_000110	Bosque Oriental Sentinela
+QUEST_20150317_000111	Você está indo para o Bosque Oriental? {nl}Você não deveria! É muito perigoso!
+QUEST_20150317_000112	Droga, essas coisas teimosas nos seguiram até aqui!
+QUEST_20150317_000113	{memo X}Esses gritos ... Nós estamos sob ataque!
+QUEST_20150317_000114	Instruções de segurança
+QUEST_20150317_000115	1. Somente pessoal autorizado pode entrar. {nl}2. Siga sempre as instruções do supervisor de mineração.
+QUEST_20150317_000116	3. Não se aproxime de áreas fechadas. {nl}4. Quaisquer pessoas suspeitas devem ser notificadas aos Cavaleiros Klaipeda.
+QUEST_20150317_000117	Base militar de Suprimentos
+QUEST_20150317_000118	Eu nunca estive em uma luta real antes, então eu estou um pouco nervoso.
+QUEST_20150317_000119	Fazenda Sentinela
+QUEST_20150317_000120	O meu colega está no meio de uma batalha na Vila dos Mineiros. {nl}Já pensei em ir ajudar, mas o Bosque Oriental está em apuros também, bem, então tudo o que posso fazer é ficar preocupado.
+QUEST_20150317_000121	Eu acho que esta missão tem me mostrado monstros suficientes para uma vida inteira. {nl}costumava ser apenas grupos de Vubbes.
+QUEST_20150317_000122	{memo X}Chupacabras gostam de córregos e vegetação exuberante da zona norte.
+QUEST_20150317_000123	Guarda Capitão de Klaipeda
+QUEST_20150317_000124	Você é o...
+QUEST_20150317_000125	{memo X}Parece que você pode ver a floresta superior daqui. {nl}Tente não entrar em apuros.
+QUEST_20150317_000126	Você não tem o item de missão necessário. Você tem certeza que quer continuar?
+QUEST_20150317_000127	Garota Klaipeda
+QUEST_20150317_000128	Meu vizinho costumava ser um caçador de monstros. {nl}Ele está aposentado agora. Era muito perigoso.
+QUEST_20150317_000129	{memo X}É bom todos esses Reveladores estarem aqui, significava que as deusas estão de volta.
 QUEST_20150317_000130	It might be silly to hope for the Goddess' return, but it's better than nothing.
 QUEST_20150317_000131	Klaipeda Lady
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the Goddess is somewhere in the world.
